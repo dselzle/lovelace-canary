@@ -1,10 +1,15 @@
 export const DEFAULT_SECONDARY_INFO = [
   "entity-id",
+  "entity_id",
   "last-changed",
+  "last_changed",
   "last-updated",
+  "last_updated",
   "last-triggered",
+  "last_triggered",
   "position",
   "tilt-position",
+  "tilt_position",
   "brightness",
 ];
 
